@@ -10,6 +10,7 @@ def load_data(input_file):
     # Esta parte es igual al taller anterior
     #
     df = pd.read_csv(input_file)
+    
     return df
 
 
